@@ -1,0 +1,43 @@
+
+
+1. css spesifisity
+- https://specificity.keegan.st/
+
+2. css color 
+- http://www.colorpicker.com
+
+3. CodePen (online code editor) 
+- http://codepen.io
+
+4. Download pattern / pola untuk background halaman 
+- http://subtlepatterns.com
+
+5. css font
+- https://fonts.google.com/
+- https://www.fontsquirrel.com/
+
+6. css reset
+- https://meyerweb.com/eric/tools/css/reset/
+
+7. Mencari Kesalahan CSS
+- https://jigsaw.w3.org/css-validator/
+- https://codebeautify.org/cssvalidate
+- http://csslint.net/
+
+8. Kecilkan Ukuran CSS
+- https://cssnano.co/playground/
+- https://cssminifier.com/
+- https://www.minifier.org/
+
+9. package Npm NodeJs
+- https://www.npmjs.com
+
+
+
+
+
+
+shortcut app
+
+Computer - properties - advanced system settings - environment variables - path - edit 
+
