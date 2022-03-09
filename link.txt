@@ -9,8 +9,9 @@
 3. CodePen (online code editor) 
 - http://codepen.io
 
-4. Download pattern / pola untuk background halaman 
+4. pola untuk background halaman/Download pattern
 - http://subtlepatterns.com
+- https://www.freepik.com/
 
 5. css font
 - https://fonts.google.com/
