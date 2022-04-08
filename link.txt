@@ -33,8 +33,9 @@
 9. package Npm NodeJs
 - https://www.npmjs.com
 
-10. logo
+10. logo / icon
 - https://dribbble.com/
+- https://www.flaticon.com/
 
 11. free image
 - https://unsplash.com/
