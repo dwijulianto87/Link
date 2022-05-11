@@ -36,6 +36,7 @@
 10. logo / icon
 - https://dribbble.com/
 - https://www.flaticon.com/
+- https://fontawesome.com/
 
 11. free image
 - https://unsplash.com/
