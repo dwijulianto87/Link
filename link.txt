@@ -54,6 +54,22 @@
 - https://www.behance.net/
 
 
+15. design/wireframe/prototype/kolaborasi
+- https://www.figma.com 
+
+16. flowchart/wireframe/mindmaps
+- https://whimsical.com/
+- https://www.mindmeister.com 
+
+17. wireframe/prototype/kolaborasi/usebility
+- https://www.invisionapp.com/
+- https://maze.co/
+
+17. plugin vscode
+- beautify - auto rapi code
+- bracket pair colorizer - memberi warna kurung/ kurung kurawal
+- laravel snippets
+- live sass compiler
 
 shortcut app
 
