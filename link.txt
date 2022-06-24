@@ -72,9 +72,11 @@ laravel snippets
 live sass compiler
 
 18. open source dashboard
-https://www.creative-tim.com/product/vue-paper-dashboard-laravel?AFFILIATE=128200
-https://www.creative-tim.com/product/light-bootstrap-dashboard-laravel?AFFILIATE=128200
-https://www.bootstrapdash.com/product/star-admin-laravel/?ref=23
+https://www.creative-tim.com/product/vue-paper-dashboard-laravel
+https://www.creative-tim.com/product/vue-white-dashboard-laravel
+https://www.creative-tim.com/product/vue-argon-dashboard-laravel
+https://www.creative-tim.com/product/light-bootstrap-dashboard-laravel
+https://www.bootstrapdash.com/product/star-admin-laravel
 
 shortcut app
 
