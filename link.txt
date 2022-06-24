@@ -1,75 +1,80 @@
 
 
 1. css spesifisity
-- https://specificity.keegan.st/
+https://specificity.keegan.st/
 
 2. css color 
-- http://www.colorpicker.com
+http://www.colorpicker.com
 
 3. CodePen (online code editor) 
-- http://codepen.io
+http://codepen.io
 
 4. pola untuk background halaman/Download pattern
-- http://subtlepatterns.com
-- https://www.freepik.com/
+http://subtlepatterns.com
+https://www.freepik.com/
 
 5. css font
-- https://fonts.google.com/
-- https://www.fontsquirrel.com/
+https://fonts.google.com/
+https://www.fontsquirrel.com/
 
 6. css reset
-- https://meyerweb.com/eric/tools/css/reset/
+https://meyerweb.com/eric/tools/css/reset/
 
 7. Mencari Kesalahan CSS
-- https://jigsaw.w3.org/css-validator/
-- https://codebeautify.org/cssvalidate
-- http://csslint.net/
+https://jigsaw.w3.org/css-validator/
+https://codebeautify.org/cssvalidate
+http://csslint.net/
 
 8. Kecilkan Ukuran CSS
-- https://cssnano.co/playground/
-- https://cssminifier.com/
-- https://www.minifier.org/
+https://cssnano.co/playground/
+https://cssminifier.com/
+https://www.minifier.org/
 
 9. package Npm NodeJs
-- https://www.npmjs.com
+https://www.npmjs.com
 
 10. logo / icon
-- https://dribbble.com/
-- https://www.flaticon.com/
-- https://fontawesome.com/
+https://dribbble.com/
+https://www.flaticon.com/
+https://fontawesome.com/
 
 11. free image
-- https://unsplash.com/
+https://unsplash.com/
 
 12. free background
-- https://www.freepik.com/
+https://www.freepik.com/
 
 13. inspirasi warna design
-- https://colorhunt.co/
-- https://coolors.co/
-- https://id.pinterest.com/awsmcolor/color-palettes/
+https://colorhunt.co/
+https://coolors.co/
+https://id.pinterest.com/awsmcolor/color-palettes/
 
 14. inpirasi design
-- https://dribbble.com/
-- https://www.behance.net/
+https://dribbble.com/
+https://www.behance.net/
 
 
 15. design/wireframe/prototype/kolaborasi
-- https://www.figma.com 
+https://www.figma.com 
 
 16. flowchart/wireframe/mindmaps
-- https://whimsical.com/
-- https://www.mindmeister.com 
+https://whimsical.com/
+https://www.mindmeister.com 
 
 17. wireframe/prototype/kolaborasi/usebility
-- https://www.invisionapp.com/
-- https://maze.co/
+https://www.invisionapp.com/
+https://maze.co/
 
 17. plugin vscode
-- beautify - auto rapi code
-- bracket pair colorizer - memberi warna kurung/ kurung kurawal
-- laravel snippets
-- live sass compiler
+beautify - auto rapi code
+bracket pair colorizer - memberi warna kurung/ kurung kurawal
+laravel snippets
+live sass compiler
+
+18. open source dashboard
+https://www.creative-tim.com/product/vue-paper-dashboard-laravel?AFFILIATE=128200
+https://www.creative-tim.com/product/light-bootstrap-dashboard-laravel?AFFILIATE=128200
+https://www.bootstrapdash.com/product/star-admin-laravel/?ref=23
 
 shortcut app
 
